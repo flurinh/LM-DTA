@@ -1,0 +1,12 @@
+name: lm-dti
+
+channels:
+  - rdkit
+  - openbabel
+  - soumith
+  - anaconda
+  - defaults
+dependencies:
+  - rdkit=2018.09.2.0=py36h865188c_1
+  - pip:
+    - torchsummary==1.5.1
