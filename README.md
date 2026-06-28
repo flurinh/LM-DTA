@@ -8,7 +8,7 @@
 <p align="center"><img src="docs/architecture.jpg" alt="LM-DTA architecture: drug and target each through a language-model block, then a feed-forward block predicts affinity" width="640"></p>
 
 <p align="center">
-  <a href="https://flurinh.github.io">◆ Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://flurinh.github.io/aboutme">◆ Portfolio</a> &nbsp;·&nbsp;
   <b>The build:</b>
   <b>LM-DTA</b> →
   <a href="https://github.com/flurinh/mt">Master thesis</a> →
@@ -45,7 +45,7 @@ which in turn grew into [ProtOS](https://github.com/flurinh/protos).
 ---
 
 <p align="center">
-◀ <b>Previously:</b> <a href="https://flurinh.github.io/#bachelor">First steps — EEG & brain–computer interfaces</a>
+◀ <b>Previously:</b> <a href="https://flurinh.github.io/aboutme/#bachelor">First steps — EEG & brain–computer interfaces</a>
 &nbsp;·&nbsp;
 <b>Next:</b> <a href="https://github.com/flurinh/mt">Master thesis — proteins as graphs</a> ▶
 </p>
