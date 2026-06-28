@@ -7,16 +7,15 @@
 
 <p align="center"><img src="docs/architecture.jpg" alt="LM-DTA architecture: drug and target each through a language-model block, then a feed-forward block predicts affinity" width="640"></p>
 
-<p align="center">
-  <a href="https://flurinh.github.io/aboutme">◆ Portfolio</a> &nbsp;·&nbsp;
-  <b>The build:</b>
-  <b>LM-DTA</b> →
-  <a href="https://github.com/flurinh/mt">Master thesis</a> →
-  <a href="https://github.com/flurinh/protos">ProtOS</a> →
-  <a href="https://github.com/flurinh/MOGRN">MOGRN</a> →
-  <a href="https://github.com/flurinh/lambda">Lambda</a> →
-  <a href="https://github.com/flurinh/Protos_MCP">ProtOS-MCP</a>
-</p>
+<p align="center"><a href="https://flurinh.github.io/aboutme">◆ Portfolio</a></p>
+
+<p align="center"><i>You may also be interested in</i></p>
+
+<table align="center"><tr>
+<td align="left">←&nbsp; <b>Previous work</b><br><a href="https://flurinh.github.io/aboutme/#bachelor">First steps — EEG & brain–computer interfaces</a></td>
+<td width="56"></td>
+<td align="right"><b>Continuation of this project</b> &nbsp;→<br><a href="https://github.com/flurinh/mt">Master thesis — proteins as graphs</a></td>
+</tr></table>
 
 ---
 
@@ -42,10 +41,3 @@ My first deep-learning research on biomolecules — sequences in, a property out
 traded sequences for **graphs**: the [master thesis](https://github.com/flurinh/mt) on GPCRs,
 which in turn grew into [ProtOS](https://github.com/flurinh/protos).
 
----
-
-<p align="center">
-◀ <b>Previously:</b> <a href="https://flurinh.github.io/aboutme/#bachelor">First steps — EEG & brain–computer interfaces</a>
-&nbsp;·&nbsp;
-<b>Next:</b> <a href="https://github.com/flurinh/mt">Master thesis — proteins as graphs</a> ▶
-</p>
